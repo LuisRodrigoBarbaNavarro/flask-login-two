@@ -1,0 +1,26 @@
+{% extends '/public/base.html' %}
+{% block css %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+{% endblock %}
+{% block title %} Home {% endblock %}
+{% block content %}
+<!-- Jumbotron -->
+<div class="m-4 p-4 shadow-4 rounded-3" style="background-color: hsl(0, 0%, 94%);">
+    <h2> ¡Hola, Forastero! </h2>
+    <p>
+        Este es el apartado principal de la página web, aquí podrás encontrar
+        información sobre los servicios que ofrecemos, así como también podrás
+        ver información relevante sobre las nutrias y su cuidado.
+    </p>
+
+    <hr class="my-4" />
+
+    <p>
+        En caso de que quieras saber más sobre nosotros, puedes visitar la siguiente página.
+    </p>
+    <button type="button" class="btn btn-primary">
+        Acerca de nosotros
+    </button>
+</div>
+<!-- Jumbotron -->
+{% endblock %}
