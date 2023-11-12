@@ -14,8 +14,10 @@
 
 ### Recursos ✨
 
-!["Primer Ejemplo"](https://i.imgur.com/ObdCrNm.png)
-!["Segundo Ejemplo"](https://i.imgur.com/vqK528A.png)
+!["Primer Ejemplo"](https://i.imgur.com/xmokexV.png)
+!["Segundo Ejemplo"](https://i.imgur.com/Wrs70JQ.png)
+!["Tercer Ejemplo"](https://i.imgur.com/pP59U8U.png)
+!["Cuarto Ejemplo"](https://i.imgur.com/FwmJiwA.png)
 
 ---
 
